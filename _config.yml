@@ -19,10 +19,10 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: none
+    #twitter: none
     github:  zhoucc
-    linkedIn: none
-    rss: rss
+    #linkedIn: none
+    #rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
